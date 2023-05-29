@@ -22,6 +22,7 @@ void sort(int arr[], int size)
 
 int main()
 {
+    // ubuntu添加的注释
     int arr[] = {11, 29, 8, 99, 2, 18};
     int size = sizeof(arr) / sizeof(arr[0]);
     sort(arr, size);
